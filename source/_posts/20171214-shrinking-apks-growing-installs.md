@@ -2,7 +2,7 @@
 title: 缩小APK，增加下载量
 date: 2017-12-14 17:10:12
 tags: [译文, Android]
-categories: Android
+categories: 译文
 ---
 
 > * 原文地址：[Shrinking APKs, growing installs: How your app’s APK size impacts install conversion rates](https://medium.com/googleplaydev/shrinking-apks-growing-installs-5d3fcba23ce2)
