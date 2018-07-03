@@ -12,7 +12,7 @@ categories: Algorithm
 
 那么这里就使用六个栈来解决这个问题。
 
-这个算法来自于这篇论文。
+这个算法来自于这篇[论文](https://ecommons.cornell.edu/bitstream/handle/1813/6273/80-433.pdf?sequence=1&isAllowed=y) 
 原文里用的是 Pure Lisp，不过语法很简单，还是很容易看懂的。
 
 
